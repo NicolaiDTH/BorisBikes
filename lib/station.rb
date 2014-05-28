@@ -10,6 +10,7 @@ DEFAULT_CAPACITY = 20
 	end
 
 	def dock(bike)
+		raise "Station is full" if full?
 		@bikes << bike
 	end
 
@@ -17,7 +18,11 @@ DEFAULT_CAPACITY = 20
 		@bikes.delete(bike)
 	end
 
-	def full?()
+	def full?
+		bike_count == @capacity
 	end
-
+	
+	def fill_station(station)
+		20.times {station.dock(Bike.new)}
+	end
 end
