@@ -19,7 +19,7 @@ describe Person do
 		person.fall_down
 	end
 
-	it "it can rent a bike from a station" do
+	it "can rent a bike from a station" do
 		station = double :station
 		expect(station).to receive(:release_bike)
 	
