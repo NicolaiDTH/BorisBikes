@@ -18,4 +18,5 @@ class Garage; include BikeContainer; end
 			garage.fix_bikes
 			expect(garage.broken_bikes).to eq []
 		end
+
 	end
