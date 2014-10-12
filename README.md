@@ -15,6 +15,7 @@ Lessons Learned:
 * Object Oriented Developing first steps!
 * Value of CRC relationships i.e. Classes Responsibilities and Collaborators.
 * Aliases!
+* Arrays!
 * Understanding 'self'.
 * More time spent with instance variables.
 * First time with Modules. In this case; 'Bike Container'.
