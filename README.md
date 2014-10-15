@@ -1,6 +1,6 @@
 ![Bikes!](http://www2.pictures.zimbio.com/gi/Mayor+London+Boris+Johnson+Governor+Arnold+Akdwi8uAlddl.jpg)
 
-Boris Bikes
+Maker's Academy - Boris Bikes
 --
 Object Oriented Developing! This week we began learning how instatiated objects interacted with one another. In doing so we started with an exercise MA called 'Boris Bikes' wherein the class was split into groups to present CRC cards and better understand how Ruby could carry out OOD.
 
