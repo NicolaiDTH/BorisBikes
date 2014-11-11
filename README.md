@@ -1,3 +1,5 @@
+![MAlogo!](http://www.makersacademy.com/images/logo.png)
+
 ![Bikes!](http://www2.pictures.zimbio.com/gi/Mayor+London+Boris+Johnson+Governor+Arnold+Akdwi8uAlddl.jpg)
 
 Maker's Academy - Boris Bikes
